@@ -1,5 +1,3 @@
-## Hi there 👋 I'm Era!
-
 # 👋 Hi, I’m Era Kalaja!
 
 I'm a Computer Science and Data Science dual-degree student at WPI, passionate about building AI-driven solutions that blend research with real-world impact. From AI debugging systems to blockchain media verification, my projects focus on automating complex workflows and enhancing user trust in technology.
