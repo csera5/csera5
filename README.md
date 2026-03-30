@@ -40,7 +40,7 @@ Currently, I'm diving deep into Machine Learning, Gen-AI, and software research 
 ---
 
 ## 📫 Contact Me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/era-kalaja/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]
 📧 ekalaja22@gmail.com
 
 ---
